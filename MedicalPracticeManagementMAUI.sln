@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalPracticeManagementMAUI", "MedicalPracticeManagementMAUI\MedicalPracticeManagementMAUI.csproj", "{5F6D30DE-DB8A-4C84-AE85-F6B66D8EEB14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalPracticeManagementAPI", "MedicalPracticeManagementAPI\MedicalPracticeManagementAPI.csproj", "{17920DF2-3837-42AB-9C65-410089EEA124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6D30DE-DB8A-4C84-AE85-F6B66D8EEB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6D30DE-DB8A-4C84-AE85-F6B66D8EEB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6D30DE-DB8A-4C84-AE85-F6B66D8EEB14}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5F6D30DE-DB8A-4C84-AE85-F6B66D8EEB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6D30DE-DB8A-4C84-AE85-F6B66D8EEB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F6D30DE-DB8A-4C84-AE85-F6B66D8EEB14}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{17920DF2-3837-42AB-9C65-410089EEA124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17920DF2-3837-42AB-9C65-410089EEA124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17920DF2-3837-42AB-9C65-410089EEA124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17920DF2-3837-42AB-9C65-410089EEA124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C104BD6-0A2D-47BF-991E-43C201A47F82}
+	EndGlobalSection
+EndGlobal
